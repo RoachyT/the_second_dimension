@@ -1,0 +1,7 @@
+C:\Users\rtoles\Desktop\The_second_dimension\the_second_dimension\the_second_dimension\bin\Debug\the_second_dimension.exe.config
+C:\Users\rtoles\Desktop\The_second_dimension\the_second_dimension\the_second_dimension\bin\Debug\the_second_dimension.exe
+C:\Users\rtoles\Desktop\The_second_dimension\the_second_dimension\the_second_dimension\bin\Debug\the_second_dimension.pdb
+C:\Users\rtoles\Desktop\The_second_dimension\the_second_dimension\the_second_dimension\obj\Debug\the_second_dimension.csprojAssemblyReference.cache
+C:\Users\rtoles\Desktop\The_second_dimension\the_second_dimension\the_second_dimension\obj\Debug\the_second_dimension.csproj.CoreCompileInputs.cache
+C:\Users\rtoles\Desktop\The_second_dimension\the_second_dimension\the_second_dimension\obj\Debug\the_second_dimension.exe
+C:\Users\rtoles\Desktop\The_second_dimension\the_second_dimension\the_second_dimension\obj\Debug\the_second_dimension.pdb
